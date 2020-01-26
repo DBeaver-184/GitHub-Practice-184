@@ -79,7 +79,7 @@
 | Matthew Hines     | Section 003       | h1n3z                | <https://h1n3z.github.io/Stat184Assignment1/>  |
 | Penghao Zeng      | Section 003      | Carina920             | <https://Carina920.github.io/STAT-184/>| 
 |Ayooluwatomiwa Ogunrombi| Secton 004| aogunrombi28             |<https://aogunrombi28.github.io/Assignment-1/> |
-
+| Dustin Beaver     | Section 003     | dbeaver-184             | <https://dbeaver-184.github.io/Assignment1/> |
 <br>
 
 # Integration of RStudio with Git
